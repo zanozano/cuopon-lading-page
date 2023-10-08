@@ -1,0 +1,27 @@
+{
+  "name": "01-cuppon-landing-page",
+  "version": "2.0.0",
+  "description": "A landing page project for promoting 'Cuppon' using Bootstrap and HTML",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "sass --watch public/assets/scss/style.scss:public/assets/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanozano/cuppon.git"
+  },
+  "keywords": [
+    "Coupon",
+    "Landing Page",
+    "html",
+    "css"
+  ],
+  "author": "Cristobal Manzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanozano/cuppon/issues"
+  },
+  "homepage": "https://github.com/zanozano/cuppon#readme",
+  "devDependencies": {}
+}

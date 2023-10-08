@@ -1,0 +1,101 @@
+@use "reset";
+@use "scroll-style";
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* NAV */
+.bg-green {
+    background-color: #28A745;
+}
+
+.navbar-toggler {
+    border-color: #FFFFFF;
+    border: 2px solid rgba(255, 255, 255, 1)
+}
+
+.navbar-brand img {
+    width: 86px;
+}
+
+/* CARD */
+.container {
+    padding: 20px;
+}
+
+.card-deck h4 {
+    color: #212529;
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+.card-deck h5 {
+    color: #707070;
+    font-size: 14pt;
+    font-weight: 300;
+}
+
+.card-deck .address i {
+    color: #707070;
+    font-size: 9pt;
+}
+
+.card-deck p {
+    color: #707070;
+    font-size: 11pt;
+    font-weight: 300;
+}
+
+/* PRICE */
+.card-deck .price h5 {
+    color: #707070;
+    font-size: 14pt;
+}
+
+.card-deck .price h5:last-child {
+    color: #28A745;
+    font-size: 16pt;
+    font-weight: 500;
+}
+
+/* FOOTER */
+footer .form-group input {
+    color: #707070;
+    font-weight: 300;
+}
+
+footer form h3 {
+    font-weight: 400;
+    font-size: 16pt;
+}
+
+.input-green {
+    height: 241px;
+}
+
+.bottom-footer {
+    height: 118px;
+}
+
+.bottom-footer img {
+    width: 82px;
+}
+
+.bottom-footer p {
+    color: #707070;
+    font-size: 10pt;
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+footer .btn {
+    border: #707070;
+}
+
+@media screen and (min-width: 400px) {
+    .card-deck {
+        margin: 50px 0;
+    }
+}
