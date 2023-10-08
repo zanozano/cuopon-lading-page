@@ -1,6 +1,5 @@
 # Coupon Landing Page
-Coupon Landing Page
-![Suricata Logo](public/assets/img/favicon.png)
+![Coupon Logo](public/assets/img/favicon.png)
 
 **Version:** 2.0.0
 
