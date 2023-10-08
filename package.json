@@ -23,5 +23,10 @@
     "url": "https://github.com/zanozano/cuppon/issues"
   },
   "homepage": "https://github.com/zanozano/cuppon#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "sass": "^1.69.0"
+  },
+  "dependencies": {
+    "scss": "^0.2.4"
+  }
 }
