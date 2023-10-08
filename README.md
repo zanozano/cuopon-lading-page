@@ -78,7 +78,7 @@ For real-time updates of SCSS to CSS, use the following script after installing 
 
 See the Coupon Landing Page in action by visiting the following link:
 
-[Coupon Landing Page](https://example.com)
+[Coupon Landing Page](https://coupon-25f1f.firebaseapp.com/?_gl=1*1a1luxk*_ga*NzAwOTg3MzYuMTY5Njc1ODQ0Nw..*_ga_CW55HF8NVT*MTY5Njc1ODQ0Ny4xLjEuMTY5Njc1ODU5NC40Ni4wLjA.)
 
 ## Contributing
 
